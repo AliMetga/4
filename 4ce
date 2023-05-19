@@ -1,0 +1,6 @@
+--center-abs-margin: 180px;
+    --center-width: 652px;
+    --rhs-margin: 76px;
+    --rhs-width: 372px;
+    --grid-gutter-width: 20px;
+    --grid-column-width: 36px;
